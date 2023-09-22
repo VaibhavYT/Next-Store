@@ -18,6 +18,17 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## ScreenShot
+
+### BillBoard 
+![Screenshot 2023-09-21 235931](https://github.com/VaibhavYT/Next-Store/assets/78371075/a48d5c7d-8b74-46a5-82f8-ded1e00067c6)
+
+![Screenshot 2023-09-22 000230](https://github.com/VaibhavYT/Next-Store/assets/78371075/341053ea-5616-4153-8018-085419d3412c)
+
+
+
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
